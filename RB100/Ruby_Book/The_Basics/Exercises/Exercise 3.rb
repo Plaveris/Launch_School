@@ -12,8 +12,8 @@ movies = { :jaws => 1975,
            :bruce_almighty => 2001, 
            :animal_house => 1981 }
 
-puts movies[:jaws] #prints 1975
-puts movies[:troy] #prints 2004
-puts movies[:promethus] #prints 2013
-puts movies[:bruce_almighty] #prints 2001
-puts movies[:animal_house] #prints 1981
+puts movies[:jaws] #Prints 1975
+puts movies[:troy] #Prints 2004
+puts movies[:promethus] #Prints 2013
+puts movies[:bruce_almighty] #Prints 2001
+puts movies[:animal_house] #Prints 1981
