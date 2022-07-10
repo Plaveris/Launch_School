@@ -5,7 +5,7 @@ The output for your program should look something like this.
 =end 
 
 
-#Createx a hash named "movies" and setting their values
+#Creates a hash named "movies" and sets their values
 movies = { :jaws => 1975, 
            :troy => 2004, 
            :promethus => 2013, 
