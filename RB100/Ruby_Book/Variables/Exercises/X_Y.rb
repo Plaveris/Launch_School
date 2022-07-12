@@ -23,5 +23,6 @@ an error message because of method invocation.The variable "x" is created inside
 be accessed from the outside. if "x = y" were put outside the method, I believe that x would print 0 because "x = y",
 and we're printing "x". "x" has no chance to increment with "y" in the method because the program sees "x = y", which 
 is 0. The program doesn't see that "x" should equal 3 because it doesn't know to increment x along with y, or more 
-accurately, the program doesn't know that "x" should equal the new "y" value. 
+accurately, the program can't access "x" because it was created inside the method. It is outside (or should I say inside)
+the scope of the method. 
 =end
