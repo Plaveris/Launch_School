@@ -1,4 +1,4 @@
-#What do the following expressions evaluate to?
+# Exercise 2: What do the following expressions evaluate to?
 
 x = 2 # => 2
 
